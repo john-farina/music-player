@@ -9,3 +9,9 @@ react music player. that i will add back end too eventually. hopefully lol.
 -   [x] Music player page with info, etc.
 -   [x] Music loading line + options for music
 -   [x] Page of all the songs in array
+
+## BUILDING WITH
+
+-   React
+-   howler.js
+-   Next.js, Express, MongoDB, etc. _(hopefully)_
