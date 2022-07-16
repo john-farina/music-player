@@ -1,10 +1,10 @@
 import './index.css';
-import MusicPlayer from './components/MusicPlayer';
+import MusicPlayer from './MusicPlayer';
 
 const musicData = [
     {
         id: 1,
-        title: 'Dreams',
+        title: 'DREAMS',
         author: 'John Farina',
         image: 'https://i.kfs.io/album/global/154767749,0v1/fit/500x500.jpg',
         audio: './audio/dreams.mp3',
